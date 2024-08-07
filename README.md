@@ -12,4 +12,6 @@ The purpose of this repo is to provide simple examples for git training.
 
 ## Deployment
 
+Deployment details goes here.
+
 ## How to Contribute
